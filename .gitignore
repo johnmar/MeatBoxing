@@ -1,4 +1,7 @@
 *.exe
 *.pdb
 *.sdf
+*.opensdf
+*.ilk
 Tank and Spank/Release
+Tank and Spank/Debug
