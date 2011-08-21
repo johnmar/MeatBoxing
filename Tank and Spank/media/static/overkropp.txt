@@ -1,0 +1,8 @@
+width: 200;
+height: 300;
+connectionPoints:
+  leftLeg: 72, 199;
+  rightLeg: 120, 199;
+  leftArm: 65, 115;
+  rightArm: 136, 105;
+  rightHand: 179, 159;

@@ -1,0 +1,3 @@
+width: 200;
+height: 300;
+connectionPoint: 119, 111;
