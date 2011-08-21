@@ -1,2 +1,4 @@
-Release
+*.exe
+*.pdb
+*.sdf
 Tank and Spank/Release
